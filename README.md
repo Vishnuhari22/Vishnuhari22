@@ -15,69 +15,51 @@
 
 ## About Me
 
-I'm a Computer Science Engineering student at the College of Engineering, Chengannur, with a 9.05 GPA. I'm passionate about building impactful solutions using Machine Learning and Full-Stack Development.
+Computer Science Engineering student at College of Engineering, Chengannur, with a passion for building intelligent systems and scalable applications. I enjoy solving complex problems through machine learning and creating user-friendly web experiences.
 
-**Recent Achievement:** Completed a Machine Learning Internship at Cognifyz Technologies, where I developed prediction and recommendation models achieving an R² score of 0.85 on regression tasks and 88% accuracy on classification models.
+Recently completed a Machine Learning internship at Cognifyz Technologies, where I developed predictive models achieving 0.85 R² score on regression tasks and 88% accuracy on classification problems.
 
-### What I'm up to:
-- 🔭 Currently developing a **Real-Time GI Disease Detection System** using Deep Learning, PyTorch, and AWS
-- 👯 Open to collaborating on impactful open-source projects in AI and Software Development
-- 💬 Ask me about **Machine Learning, Python, MERN Stack, or AWS**
+- 🔭 Working on a real-time GI disease detection system using deep learning
+- 👯 Looking to collaborate on AI projects and open-source contributions
+- 💬 Ask me about machine learning, web development, or data science
 - 📫 Reach me at: **vishnuhariabc@gmail.com**
-- 📍 Based in Kerala, India
+- 📍 Kerala, India
 
-## Technical Skills
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,react,nodejs,express,tensorflow,pytorch,sklearn,mysql,mongodb,postgres,git,docker,aws,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,react,nodejs,mongodb,mysql,docker,tensorflow,pytorch&perline=8" />
   </a>
 </p>
 
-## Featured Projects
+## Projects
 
-### 🏥 Real-Time GI Disease Detection System
-An AWS-backed system for real-time detection of gastrointestinal diseases from colonoscopy videos using deep learning models.
-- **Tech Stack:** Deep Learning, PyTorch, AWS
-- **Status:** In Development
+**🏥 Real-Time GI Disease Detection System**  
+Deep learning system for detecting gastrointestinal diseases from medical imaging data. Built with PyTorch and deployed on AWS for real-time inference.
 
-### 💼 MERN Stack Job Portal
-A full-stack job portal with role-based JWT authentication, serving over 1,000 users.
-- **Tech Stack:** MongoDB, Express.js, React, Node.js, Cloudinary
-- **Features:** JWT Authentication, Role-based Access, Media Management
+**💼 Job Portal Platform**  
+Full-stack MERN application with JWT authentication serving 1000+ users. Features role-based access control and integrated file upload capabilities.
 
-### 🔄 Containerized ETL Data Pipeline
-A scalable ETL pipeline for data extraction, transformation, and loading into PostgreSQL.
-- **Tech Stack:** Python, Docker, PostgreSQL
-- **Focus:** Data Engineering, Containerization
+**🔄 ETL Data Pipeline**  
+Containerized data processing pipeline using Python and Docker. Handles data extraction, transformation, and loading into SQL databases with automated workflows.
 
-### 📊 Dengue Surveillance and Prediction System
-A predictive system with SARIMA time-series modeling and interactive dashboard for forecasting dengue outbreaks.
-- **Tech Stack:** Python, SARIMA Model, Data Visualization
-- **Application:** Public Health Analytics
+**📊 Dengue Prediction System**  
+Time-series forecasting system using SARIMA models to predict disease outbreaks. Includes interactive dashboard for data visualization and trend analysis.
 
-## GitHub Statistics
+## GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnuhari22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuhari22&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vishnuhari22&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuhari22&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Open to opportunities and collaborations</i>
 </p>
