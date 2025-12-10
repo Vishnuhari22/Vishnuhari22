@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79C0FF&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Vishnu+Harikumar+%F0%9F%91%8B;ML+Engineer+in+Training+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79C0FF&background=00000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Vishnu+Harikumar+%F0%9F%91%8B;ML+Engineer+%F0%9F%A4%96;Backend+Developer+(FastAPI);Building+Scalable+APIs;Solver+of+Complex+Problems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** at the College of Engineering, Chengannur (Kerala, India). I bridge the gap between complex machine learning algorithms and user-friendly web experiences.
+I'm a **Computer Science Engineering student** at the College of Engineering, Chengannur. I specialize in architecting robust backend systems and deploying intelligent machine learning models. I focus on logic, scalability, and data efficiency over frontend design.
 
 * 🔭 **Currently working on:** Real-time GI disease detection using Deep Learning.
 * 💼 **Experience:** Former ML Intern at **Cognifyz Technologies** (Achieved 88% accuracy on classification tasks).
-* 🌱 **Learning:** Advanced MLOps and Cloud Deployment (AWS).
-* 💬 **Ask me about:** Python, Computer Vision, and MERN Stack.
+* 🛠️ **Focus:** FastAPI, MLOps, and Cloud Architecture (AWS).
+* 💻 **Coding:** Active problem solver on LeetCode.
 
 ---
 
@@ -32,10 +32,10 @@ I'm a **Computer Science Engineering student** at the College of Engineering, Ch
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Web Dev** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Cloud/Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 </div>
 
@@ -45,14 +45,14 @@ I'm a **Computer Science Engineering student** at the College of Engineering, Ch
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🏥 GI Disease Detection** | **Real-time Deep Learning System**<br>Detects gastrointestinal diseases from medical imaging. Deployed on AWS for real-time inference. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **💼 Job Portal** | **Full-Stack MERN Application**<br>Serves 1000+ users with JWT auth, role-based access, and file handling capabilities. | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node.js) |
-| **🔄 ETL Pipeline** | **Containerized Data Workflow**<br>Automated pipeline for extracting, transforming, and loading data into SQL databases. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **📊 Dengue Prediction** | **Time-Series Forecasting**<br>SARIMA models to predict outbreaks with an interactive dashboard for trend analysis. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **🏥 GI Disease Detection** | **Deep Learning System**<br>Detects gastrointestinal diseases from medical imaging. Deployed on AWS for real-time inference. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **💼 Job Portal API** | **Backend System**<br>RESTful API serving 1000+ users. Implements JWT authentication, RBAC, and secure file handling. | ![NodeJS](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **🔄 ETL Pipeline** | **Data Engineering**<br>Containerized workflow using Python/Docker for extraction, transformation, and SQL loading. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **📊 Dengue Prediction** | **Time-Series Forecasting**<br>SARIMA models to predict outbreaks based on historical data patterns. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub & LeetCode Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnuhari22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
@@ -60,7 +60,8 @@ I'm a **Computer Science Engineering student** at the College of Engineering, Ch
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishnuhari22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/vishnuhari22?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <br>
