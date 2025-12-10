@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.imgur.com/M96GgKY.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);"/>
 </div>
 
 <div align="center">
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=435&lines=Vishnu+Harikumar;Backend+Developer;Machine+Learning+Engineer;Crafting+Scalable+Systems" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=FFF5E1&background=00000000&center=true&vCenter=true&width=435&lines=Vishnu+Harikumar;Backend+Developer;Machine+Learning+Engineer;Crafting+Scalable+Systems" alt="Typing SVG" />
     </a>
   </h3>
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/vishnu-harikumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8D6E63?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="mailto:vishnuhariabc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25"/>
+    <img src="https://img.shields.io/badge/Gmail-8D6E63?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25"/>
   </a>
 </p>
 
@@ -33,6 +33,8 @@ I am a Computer Science Engineering student at the College of Engineering, Cheng
 ---
 
 ### Technical Expertise
+
+*The badges here use a sage green color (#8FBC8F) which perfectly matches the lush countryside foliage aesthetic.*
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -55,9 +57,9 @@ I am a Computer Science Engineering student at the College of Engineering, Cheng
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-9576c66d-1672-460f-9694-5509f63567b9.gif" width="100%" />
+  <img src="https://i.imgur.com/Ld0c3xU.png" width="100%" style="border-radius: 12px; opacity: 0.9;"/>
 </div>
 
-<p align="center" style="color: #8FBC8F; font-style: italic; font-size: 12px;">
+<p align="center" style="color: #8FBC8F; font-style: italic; font-size: 12px; margin-top: 10px;">
   Open to collaborative opportunities in backend and AI development.
 </p>
