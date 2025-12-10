@@ -61,7 +61,7 @@ I'm a **Computer Science Engineering student** at the College of Engineering, Ch
 
 <div align="center">
   <br>
-  <img src="https://leetcard.jacoblin.cool/vishnuhari22?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/iVishnuhari?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <br>
