@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/62/54/a9/6254a99bb2aa0a6b7b0fe4e7c6c81ea6.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <div align="center">
@@ -34,8 +34,6 @@ I am a Computer Science Engineering student at the College of Engineering, Cheng
 
 ### Technical Expertise
 
-*To maintain the calm aesthetic, the badges below use a unified, muted color palette.*
-
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-8FBC8F?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-8FBC8F?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-8FBC8F?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-8FBC8F?style=flat-square&logo=mysql&logoColor=white) |
@@ -57,7 +55,7 @@ I am a Computer Science Engineering student at the College of Engineering, Cheng
 <br>
 
 <div align="center">
-    <img src="https://i.imgur.com/q89mE4J.gif" width="100%" style="opacity: 0.6;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-9576c66d-1672-460f-9694-5509f63567b9.gif" width="100%" />
 </div>
 
 <p align="center" style="color: #8FBC8F; font-style: italic; font-size: 12px;">
