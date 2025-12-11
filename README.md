@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/M96GgKY.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);"/>
-</div>
 
 <div align="center">
   <h3>
@@ -34,7 +31,6 @@ I am a Computer Science Engineering student at the College of Engineering, Cheng
 
 ### Technical Expertise
 
-*The badges here use a sage green color (#8FBC8F) which perfectly matches the lush countryside foliage aesthetic.*
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -56,9 +52,6 @@ I am a Computer Science Engineering student at the College of Engineering, Cheng
 
 <br>
 
-<div align="center">
-  <img src="https://i.imgur.com/Ld0c3xU.png" width="100%" style="border-radius: 12px; opacity: 0.9;"/>
-</div>
 
 <p align="center" style="color: #8FBC8F; font-style: italic; font-size: 12px; margin-top: 10px;">
   Open to collaborative opportunities in backend and AI development.
